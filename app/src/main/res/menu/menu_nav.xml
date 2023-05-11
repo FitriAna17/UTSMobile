@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:title="home"
+        android:icon="@drawable/home"
+
+    <item
+        android:id="@+id/explore"
+        android:title="explore"
+        android:icon="@drawable/explore"
+
+
+    <item
+        android:id="@+id/subsriptions"
+        android:title="subsriptions"
+        android:icon="@drawable/subscriptions"
+
+
+    <item
+        android:id="@+id/photo_library"
+        android:title="photo_library"
+        android:icon="@drawable/photo_library"
+
+</menu>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">UTS Mobile</string>
+    <string name="nama_hewan">nama_hewan</string>
+    <string name="description">description</string>
+    <string name="name">name</string>
+    <string name="home">home</string>
+    <string name="explore">explore</string>
+    <string name="subcriptions">subcriptions</string>
+    <string name="library">library</string>
+    <string name="Home">home</string>
+    <string name="subscriptions">subscriptions</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
